@@ -2,7 +2,7 @@
 # SDEV 220 50P - Andrew Emily
 # lfawkes-sdev220-module2-lab-if-else-while.py
 # This app will input a student's last name, quit processing if name entered 
-# # is "ZZZ", otherwise then read first name, read GPA as float, test the GPA,
+# is "ZZZ", otherwise then read first name, read GPA as float, test the GPA,
 # and if it's 3.75 or above print that the student has made the Dean's list
 # if it's 3.5 or above, print that the student has made the honor roll.
 
